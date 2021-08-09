@@ -14,3 +14,7 @@ Specs:
 
 
 Thanks to Dortania's Open Core Hackintosh Guide for helping me: https://dortania.github.io/OpenCore-Install-Guide/
+
+
+
+Note: Not responsible if this breaks your system in any way.
